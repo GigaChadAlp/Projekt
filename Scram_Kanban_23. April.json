@@ -1,0 +1,77 @@
+{
+  "list": [
+    11,
+    12,
+    13
+  ],
+  "data": {
+    "11": {
+      "id": 11,
+      "title": "To Do",
+      "item": [
+        2801641670370766,
+        1492902040037940
+      ]
+    },
+    "12": {
+      "id": 12,
+      "title": "In progress",
+      "item": [
+        4798956300005737
+      ]
+    },
+    "13": {
+      "id": 13,
+      "title": "Done",
+      "item": [
+        1960157770741943,
+        5282280374306511,
+        1,
+        2,
+        8549299625851435
+      ]
+    }
+  },
+  "items": {
+    "1": {
+      "id": 1,
+      "title": "Besprechung 1 zu Projekt Auswahl",
+      "body": "Entscheidung zwischen Taschenrechner(GUI) und Schiffeversenken\n"
+    },
+    "2": {
+      "id": 2,
+      "title": "Besprechung 2 Projekt Auswahl nach Testen und Code ",
+      "body": "Projekt Auswahl nach Testen und Code Testen der Beiden Projekte\n\nEntschluss = Schiffeversenken 2 Player"
+    },
+    "8549299625851435": {
+      "id": 8549299625851435,
+      "title": "Scram Master und Rollen",
+      "body": "Scram Rollen Absprache und Verteilung\n\n................................................................................\n\nAlperen = Scram Master, Planer und Coder\n\nSebastian = ProgressReminder und Coder\n\nPhillip = EMOTIONALER Support und Coder\n\nAissa = Komiker und Coder"
+    },
+    "4798956300005737": {
+      "id": 4798956300005737,
+      "title": "Gitub Erstellung zu Projekt und Verknüpfung",
+      "body": "Besprechen wie Github geht und wie es zu nutzen ist"
+    },
+    "5282280374306511": {
+      "id": 5282280374306511,
+      "title": "Projekt Schiffeversenken(2P)_1.0",
+      "body": "Besprechung zur Frontend, als PAP(Ungefähr) erstellt."
+    },
+    "1492902040037940": {
+      "id": 1492902040037940,
+      "title": "Schiffeversenken(2P)_1.1",
+      "body": "PAP erstellen und besprechen zur Backend"
+    },
+    "2801641670370766": {
+      "id": 2801641670370766,
+      "title": "Schiffeversenken(2P)_1.1",
+      "body": "Einfach Drauf Los Programmieren und Einsichten Teilen"
+    },
+    "1960157770741943": {
+      "id": 1960157770741943,
+      "title": "Whatsapp Gruppe",
+      "body": "Pfillip erstellt"
+    }
+  }
+}
